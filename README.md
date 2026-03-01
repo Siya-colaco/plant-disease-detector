@@ -6,7 +6,7 @@
 
 ## 🌿 About The Project
 
-*BotaniCure* is an intelligent plant disease detection web app built using HTML, CSS and JavaScript. Users can upload any plant or leaf photo and the AI will instantly analyze it and provide a complete diagnosis including disease name, severity level, confidence score, symptoms and treatment recommendations.
+*AI plant disease detector* is an intelligent plant disease detection web app built using HTML, CSS and JavaScript. Users can upload any plant or leaf photo and the AI will instantly analyze it and provide a complete diagnosis including disease name, severity level, confidence score, symptoms and treatment recommendations.
 
 This project was built to help farmers, gardeners and plant lovers quickly identify and treat plant diseases using the power of Artificial Intelligence.
 
